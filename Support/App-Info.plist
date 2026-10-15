@@ -7,14 +7,14 @@
     <key>CFBundleDisplayName</key><string>Enco</string>
     <key>CFBundleExecutable</key><string>Enco</string>
     <key>CFBundlePackageType</key><string>APPL</string>
-    <key>CFBundleShortVersionString</key><string>0.2.4</string>
-    <key>CFBundleVersion</key><string>6</string>
+    <key>CFBundleShortVersionString</key><string>0.3.0</string>
+    <key>CFBundleVersion</key><string>8</string>
     <key>CFBundleIconFile</key><string>AppIcon</string>
     <key>LSMinimumSystemVersion</key><string>13.0</string>
     <key>LSUIElement</key><true/>
     <key>NSHighResolutionCapable</key><true/>
     <key>NSBluetoothAlwaysUsageDescription</key><string>Enco connects to your OPPO earbuds to show battery levels and control noise cancellation.</string>
-    <key>SUFeedURL</key><string>https://raw.githubusercontent.com/OutTuna/Cracked-Oneplus_buds/main/appcast.xml</string>
+    <key>SUFeedURL</key><string>https://raw.githubusercontent.com/OutTuna/Enco-for-macOS/main/appcast.xml</string>
     <key>SUPublicEDKey</key><string>ZLQCy9nD3iT5/QC9kZ01uQHwuSPwQ9U1vKqYqVgm354=</string>
     <key>SUEnableAutomaticChecks</key><true/>
     <key>SUAutomaticallyUpdate</key><true/>

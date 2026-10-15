@@ -310,7 +310,7 @@ struct AboutView: View {
 }
 
 enum AppInfo {
-    static let repository = URL(string: "https://github.com/OutTuna/Cracked-Oneplus_buds")!
+    static let repository = URL(string: "https://github.com/OutTuna/Enco-for-macOS")!
     static var version: String { Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String ?? "0.2.0" }
     static var build: String { Bundle.main.object(forInfoDictionaryKey: "CFBundleVersion") as? String ?? "2" }
 }
